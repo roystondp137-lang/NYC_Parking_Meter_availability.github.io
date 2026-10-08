@@ -1,32 +1,3 @@
-# NYC_Parking_Meter_availability
-This project will display available parketing meters, and display distance from pakring meters, prioritizing closer meters, available meters, and meters about to expire
-
-# ````Problem````
-parking in nyc is difficult, and finding an open meter is harder. This program intends to find open meters in New York City, which includes all five bouroughs.
-
-# ````Data````
-The project is using data from NYC Open Data, using all available meters in the city.
-
-
-# ````Solution````
-Implement methods that allows users to find meters that are closest to them, marking the available meters first, then meters that are soon to expire, then meters that are slightly further away for parking.
-
-# ````results````
-results will go here
-
-
-# ````code````
-code will go here
-
-+56
-Lines changed: 56 additions & 0 deletions
-
-
-Original file line number	Diff line number	Diff line change
-@@ -17,3 +17,59 @@ results will go here
-
-# ````code````
-code will go here
 <!DOCTYPE html>
 <html lang="en">
 <head>
