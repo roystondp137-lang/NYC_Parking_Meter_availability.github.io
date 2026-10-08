@@ -17,26 +17,55 @@ results will go here
 
 # ````code````
 code will go here
-# NYC Parking Meter Availability
 
-This project will display available parking meters and display distance from parking meters, prioritizing closer meters, available meters, and meters about to expire.
++56
+Lines changed: 56 additions & 0 deletions
 
-## Problem
 
-Parking in NYC is difficult, and finding an open meter is harder. This program intends to find open meters in New York City, which includes all five boroughs.
+Original file line number	Diff line number	Diff line change
+@@ -17,3 +17,59 @@ results will go here
 
-## Data
-
-The project is using data from NYC Open Data, using all available meters in the city.
-
-## Solution
-
-Implement methods that allow users to find meters that are closest to them, marking the available meters first, then meters that are soon to expire, then meters that are slightly further away for parking.
-
-## Results
-
-Results will go here.
-
-## Code
-
-Code will go here.
+# ````code````
+code will go here
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NYC Parking Meter Availability</title>
+</head>
+<body>
+    <h1>NYC Parking Meter Availability</h1>
+    <p>
+        This project will display available parking meters and display the
+        distance from parking meters, prioritizing closer meters, available
+        meters, and meters that are about to expire.
+    </p>
+    <h2>Problem</h2>
+    <p>
+        Parking in NYC is difficult, and finding an open meter is even harder.
+        This program intends to find open meters in New York City, including
+        all five boroughs.
+    </p>
+    <h2>Data</h2>
+    <p>
+        The project is using data from NYC Open Data, using all available
+        meters in the city.
+    </p>
+    <h2>Solution</h2>
+    <p>
+        Implement methods that allow users to find meters that are closest
+        to them, marking available meters first, then meters that are soon
+        to expire, followed by meters that are slightly farther away for
+        parking.
+    </p>
+    <h2>Results</h2>
+    <p>
+        Results will go here.
+    </p>
+    <h2>Code</h2>
+    <p>
+        Code will go here.
+    </p>
+</body>
+</html>
