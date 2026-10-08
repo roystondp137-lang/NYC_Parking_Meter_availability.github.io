@@ -17,29 +17,26 @@ results will go here
 
 # ````code````
 code will go here
-<h1>NYC Parking Meter Availability</h1>
+# NYC Parking Meter Availability
 
-<p>This project will display available parking meters and display distance from parking meters, prioritizing closer meters, available meters, and meters about to expire.</p>
+This project will display available parking meters and display distance from parking meters, prioritizing closer meters, available meters, and meters about to expire.
 
-<h2>Problem</h2>
+## Problem
 
-<p>Parking in NYC is difficult, and finding an open meter is harder. This program intends to find open meters in New York City, which includes all five boroughs.</p>
+Parking in NYC is difficult, and finding an open meter is harder. This program intends to find open meters in New York City, which includes all five boroughs.
 
-<h2>Data</h2>
+## Data
 
-<p>The project is using data from NYC Open Data, using all available meters in the city.</p>
+The project is using data from NYC Open Data, using all available meters in the city.
 
-<h2>Solution</h2>
+## Solution
 
-<p>Implement methods that allow users to find meters that are closest to them, marking the available meters first, then meters that are soon to expire, then meters that are slightly further away for parking.</p>
+Implement methods that allow users to find meters that are closest to them, marking the available meters first, then meters that are soon to expire, then meters that are slightly further away for parking.
 
-<h2>Results</h2>
+## Results
 
-<p>Results will go here.</p>
+Results will go here.
 
-<h2>Code</h2>
+## Code
 
-<p>Code will go here.</p>
-
-</body>
-</html>
+Code will go here.
